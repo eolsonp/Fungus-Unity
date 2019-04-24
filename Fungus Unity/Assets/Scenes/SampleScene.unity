@@ -2073,8 +2073,8 @@ MonoBehaviour:
   description: Radioactive
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 762677068}
   - {fileID: 762677142}
+  - {fileID: 762677068}
   - {fileID: 762677067}
   - {fileID: 762677066}
   - {fileID: 762677065}
@@ -2545,8 +2545,8 @@ MonoBehaviour:
   description: Bye Bye Bye
   eventHandler: {fileID: 0}
   commandList:
-  - {fileID: 762677086}
   - {fileID: 762677138}
+  - {fileID: 762677086}
   - {fileID: 762677085}
   - {fileID: 762677084}
   - {fileID: 762677083}
