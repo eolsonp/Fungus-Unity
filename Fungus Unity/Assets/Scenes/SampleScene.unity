@@ -2499,14 +2499,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 388.01654
-    y: 383.83917
+    x: 127.01654
+    y: 387.83917
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 83
-  blockName: Right3
+  blockName: Left3
   description: Boulevard of Broken Dreams
   eventHandler: {fileID: 0}
   commandList:
@@ -2533,14 +2533,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 135.26863
-    y: 384.938
+    x: 392.26862
+    y: 387.938
     width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 82
-  blockName: Left3
+  blockName: Right3
   description: Bye Bye Bye
   eventHandler: {fileID: 0}
   commandList:
@@ -2568,7 +2568,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 81
   indentLevel: 0
-  text: Go Right
+  text: Go Left
   description: 
   targetBlock: {fileID: 762677095}
   hideIfVisited: 0
@@ -2593,7 +2593,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 80
   indentLevel: 0
-  text: Go Left
+  text: Go Right
   description: 
   targetBlock: {fileID: 762677096}
   hideIfVisited: 0
