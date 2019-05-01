@@ -367,7 +367,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_Name
-      value: LanaDelRay
+      value: Marshmello
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -419,7 +419,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: nameText
-      value: LDR
+      value: Marshmello
       objectReference: {fileID: 0}
     - target: {fileID: 11400000, guid: b20518d45890e4be59ba82946f88026c, type: 3}
       propertyPath: portraits.Array.data[0]
@@ -1287,7 +1287,7 @@ MonoBehaviour:
   useCustomTint: 0
   itemId: 40
   blockName: Right2
-  description: Mariners Apartment Complex
+  description: Silence
   eventHandler: {fileID: 0}
   commandList:
   - {fileID: 762677119}
@@ -1298,7 +1298,6 @@ MonoBehaviour:
   - {fileID: 762677114}
   - {fileID: 762677113}
   - {fileID: 762677112}
-  - {fileID: 762677111}
   - {fileID: 762677110}
 --- !u!114 &762677052
 MonoBehaviour:
@@ -2927,33 +2926,6 @@ MonoBehaviour:
   hideThisOption:
     booleanRef: {fileID: 0}
     booleanVal: 0
---- !u!114 &762677111
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 762677018}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 67
-  indentLevel: 0
-  storyText: When everyone's talking, you can make a stand
-  description: 
-  character: {fileID: 563544894}
-  portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!114 &762677112
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -2968,7 +2940,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 66
   indentLevel: 0
-  storyText: That people can change, but you don't have to leave her
+  storyText: But I'm at one with the silence
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
@@ -2995,7 +2967,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 65
   indentLevel: 0
-  storyText: And who I am is a big-time believer
+  storyText: Love only left me alone
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
@@ -3022,7 +2994,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 64
   indentLevel: 0
-  storyText: All the things that make me who I am
+  storyText: I'm so used to sharing
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
@@ -3049,7 +3021,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 63
   indentLevel: 0
-  storyText: Think about it, the darkness, the deepness
+  storyText: And I never had someone to call my own, oh nah
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 0}
@@ -3076,7 +3048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 62
   indentLevel: 0
-  storyText: Catch a wave and take in the sweetness
+  storyText: All this time, I've been hiding
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
@@ -3103,7 +3075,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 61
   indentLevel: 0
-  storyText: Can't a girl just do the best she can?
+  storyText: Never felt a feeling of comfort?
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
@@ -3130,7 +3102,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 60
   indentLevel: 0
-  storyText: I fucked up, I know that, but Jesus
+  storyText: '''Cause all my life, I''ve been fighting'
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
@@ -3157,7 +3129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 59
   indentLevel: 0
-  storyText: They mistook my kindness for weakness
+  storyText: Yeah, I'd rather be a lover than a fighter
   description: 
   character: {fileID: 563544894}
   portrait: {fileID: 21300000, guid: 0aae040cd04f5f84d907c8d79c5470a3, type: 3}
