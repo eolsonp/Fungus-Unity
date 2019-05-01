@@ -3273,8 +3273,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 108
   indentLevel: 0
-  storyText: All music is owned by original copyright Artists. Eminem, Drake, Fall
-    out Boys, Green Day, Imagine Dragons, Linkin Park, Panic at the Disco, Nsync
+  storyText: "All music is owned by original copyright Artists. \nEminem, Drake, Fall
+    out Boys, Green Day, Imagine Dragons, Linkin Park, Panic at the Disco, Nsync,
+    Marshmello."
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -3383,7 +3384,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 113
   indentLevel: 0
-  storyText: Game by Eric Olson
+  storyText: 'Game by Eric Olson
+
+    with help from Scott Little'
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
